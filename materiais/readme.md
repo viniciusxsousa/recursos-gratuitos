@@ -179,6 +179,8 @@
 | [UiGradients](https://uigradients.com/#Memariani) | <img src="../imagem/eua.png" width="40px"> |
 | [Web Gradients](https://webgradients.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [whocanuse](https://whocanuse.com) | <img src="../imagem/eua.png" width="40px"> |
+| [UiColors](https://uicolors.app/create) | <img src="../imagem/eua.png" width="40px"> |
+| [Color Lisa](https://colorlisa.com) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -239,8 +241,10 @@
 | [Ionicons](https://ionicons.com/) | <img src="../imagem/eua.png" width="40px"> |  
 | [Line Awesome](https://icons8.com/line-awesome) | <img src="../imagem/eua.png" width="40px"> |
 | [Linearicons](https://linearicons.com/free) | <img src="../imagem/eua.png" width="40px"> |
+| [Lucide Icons](https://lucide.dev) | <img src="../imagem/eua.png" width="40px"> |
 | [Newsbi Icon Pack](https://gumroad.com/l/lfdy) | <img src="../imagem/eua.png" width="40px"> |  
 | [Noun Project](https://thenounproject.com/) | <img src="../imagem/eua.png" width="40px"> | 
+| [Phosphor Icons](https://phosphoricons.com/) | <img src="../imagem/eua.png" width="40px"> | 
 | [Pixeden](https://www.pixeden.com/icons-set) | <img src="../imagem/eua.png" width="40px"> | 
 | [React Icons](https://react-icons.github.io/react-icons/) | <img src="../imagem/eua.png" width="40px"> |
 | [Remix Icon](https://remixicon.com/) | <img src="../imagem/eua.png" width="40px"> |  
@@ -289,6 +293,7 @@
 | [Seeklogo](https://seeklogo.com/) | <img src="../imagem/eua.png" width="40px"> |                                                      
 | [VectorLogoZone](https://www.vectorlogo.zone/) | <img src="../imagem/eua.png" width="40px"> |                                   
 | [World Vector Logo](https://worldvectorlogo.com/) | <img src="../imagem/eua.png" width="40px"> |         
+| [Zarla Free Logo Maker](https://www.zarla.com/br) | <img src="../imagem/br.png" width="40px"> |
 
 ## Livros 📚
 
@@ -309,7 +314,7 @@
 | Link      | Tipo  | Certificado | Idioma | Link      | Tipo  | Certificado | Idioma |
 | ---------- | ------ | ---------- | :------: | ---------- | ------ | ---------- | :------: |
 | [4noobs](https://github.com/he4rt/4noobs) | Curso | Não | <img src="../imagem/br.png" width="40px"> | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
-| [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
+| [Amanda Vilela](https://www.youtube.com/channel/UCBHuWBJdB8HSh3_ZLwPq9_w) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [AmigosCode](https://www.youtube.com/@amigoscode) | Youtube | Não | <img src="../imagem/eua.png" width="40px"> | [Codecademy](https://www.codecademy.com/ ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [Aprenda Go](https://www.youtube.com/c/AprendaGo) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)| Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Future Learn](https://www.futurelearn.com) | Curso | Não | <img src="../imagem/eua.png" width="40px"> |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | <img src="../imagem/br.png" width="40px"> | [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux ) | Curso | Não | <img src="../imagem/eua.png" width="40px"> | 
@@ -325,21 +330,23 @@
 | [Cursae](https://www.cursae.com.br/)| Curso | Sim | <img src="../imagem/br.png" width="40px"> | [Codecademy](https://www.codecademy.com/)| Curso | Não | <img src="../imagem/eua.png" width="40px">
 | [Curso de Pentest Desec](https://desecsecurity.com/curso/curso-pentest-gratuito) | Curso | Sim | <img src="../imagem/br.png" width="40px"> | [Cybrary Hacking Course](https://www.cybrary.it/)| Curso | Sim | <img src="../imagem/eua.png" width="40px">
 | [Descompila](https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | [FreeCodeCamp](https://www.freecodecamp.org/) | Curso | Sim | <img src="../imagem/eua.png" width="40px"> |
-| [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="../imagem/br.png" width="40px">| 
-| [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="../imagem/br.png" width="40px"> |
-| [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)| Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+| [DevDojo](https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g)| Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Web Dev Cody](https://www.youtube.com/@WebDevCody) | Youtube | Não | <img src="../imagem/eua.png" width="40px"> |
+| [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ) | YouTube | Não | <img src="../imagem/br.png" width="40px"> | [Akhil Sharma](https://www.youtube.com/@AkhilSharmaTech) | Youtube | Não | <img src="../imagem/eua.png" width="40px"> |
+| [Dias de Dev](https://www.youtube.com/c/DiasdeDev/)| Youtube | Não | <img src="../imagem/br.png" width="40px"> | [Anthony GG](https://www.youtube.com/@anthonygg_) | Youtube | Não | <img src="../imagem/eua.png" width="40px"> |
 | [DIO](https://web.dio.me/play)| Curso | Sim | <img src="../imagem/br.png" width="40px"> | 
 | [Eduardo Mendes](https://www.youtube.com/user/mendesesduardo ) | Youtube | Não | <img src="../imagem/br.png" width="40px"> | 
 | [Escola Front-End](https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ) | Youtube | Não | <img src="../imagem/br.png" width="40px">  | 
 | [EXcript](https://www.youtube.com/user/excriptvideo ) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Fábio Akita](https://www.youtube.com/user/AkitaOnRails)| Youtube |Não | <img src="../imagem/br.png" width="40px"> | 
 | [Felipe Aguiar - Laboratório de Código](https://www.youtube.com/watch?v=G31EuXNMDPk) | Youtube| Não | <img src="../imagem/br.png" width="40px"> |
+| [Fernanda Kipper - Dev](https://www.youtube.com/@kipperdev) | Youtube| Não | <img src="../imagem/br.png" width="40px"> |
 | [Ferreira Studios](https://www.youtube.com/user/devleonardoferreira)| Youtube |Não | <img src="../imagem/br.png" width="40px"> | 
 | [FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733)| Curso | Sim | <img src="../imagem/br.png" width="40px"> | 
 | [Filho da nuvem](https://www.youtube.com/filhodanuvem) | YouTube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Fundação Bradesco - Escola Virtual](https://www.ev.org.br/) | Cursos | Sim | <img src="../imagem/br.png" width="40px"> |
 |[Fundação Estudar- Curso CC50](https://materiais.napratica.org.br/cc50) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
 | [Jamilton Damasceno](https://www.youtube.com/channel/UC23y3W9PAUKyM0M-yyMKTBA) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+| [Javanauta](https://www.youtube.com/@javanauta) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
 | [Introdução ao Hacking e Pentest](https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
 | [Introdução a Segurança da Informação](https://esecurity.com.br/cursos/introducao-a-seguranca-da-informacao/) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
 | [IFRS](https://moodle.ifrs.edu.br/course/index.php?categoryid=38) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
@@ -373,6 +380,16 @@
 | [Udemy](https://www.udemy.com/courses/development/web-development/?price=price-free&sort=popularity) | Curso | Não | <img src="../imagem/br.png" width="40px"> |
 | [Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/) | Curso | Não | <img src="../imagem/br.png" width="40px"> | 
 [Balta.io](https://balta.io/comece-de-graca) | Curso | Não | <img src="../imagem/br.png" width="40px"> | 
+[Formação Hackers do Bem](https://hackersdobem.org.br/formacao) | Curso | Sim | <img src="../imagem/br.png" width="40px"> |
+[Canal dotNET](https://www.youtube.com/@CanalDotNET) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[Daniele Leão](https://www.youtube.com/@DanieleLeao) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[Elder Moraes](https://www.youtube.com/@eldermoraes) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[Giuliana Bezerra](https://www.youtube.com/@giulianabezerra) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[HunCoding](https://www.youtube.com/@huncoding) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[Caio Rodrigues](https://www.youtube.com/@CaioRodriguesBackEndJava) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[Como aprender AWS: Dominando a AWS](https://www.youtube.com/playlist?list=PLtL97Owd1gkQ0dfqGW8OtJ-155Gs67Ecz) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[LuisDev](https://www.youtube.com/@luisdev) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
+[Azure na Prática](https://www.youtube.com/@AzurenaPratica) | Youtube | Não | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -392,6 +409,7 @@
 | [Pizza de Dados](https://pizzadedados.com/) | <img src="../imagem/br.png" width="40px"> | [Meta-Cast](https://open.spotify.com/show/5kZb0hiZFqkxEfquAGea7Y) | <img src="../imagem/eua.png" width="40px"> |
 | [PodProgramar](https://mundopodcast.com.br/podprogramar/) | <img src="../imagem/br.png" width="40px"> | [Software Daily](https://open.spotify.com/show/6UCtBYL29hwhw4YbTdX83N?si=35a6c530a65d48a8) | <img src="../imagem/eua.png" width="40px"> |
 | [Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf)| <img src="../imagem/br.png" width="40px">  | [The ReadME Podcast](https://open.spotify.com/show/660KitvdJDX2vUmioAbwSQ) | <img src="../imagem/eua.png" width="40px"> |
+| [Lambda3 Podcast](https://player.fm/series/lambda3-podcast-1528672)| <img src="../imagem/br.png" width="40px">  | [Backend Banter](https://www.backendbanter.fm) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -408,6 +426,7 @@
 | [URI Online Judge](https://www.urionlinejudge.com.br) | <img src="../imagem/br.png" width="40px"> | [Boring Rails](https://boringrails.com/) | <img src="../imagem/eua.png" width="40px"> |
 | [DevChallenge](https://devchallenge.now.sh/) | <img src="../imagem/br.png" width="40px"> | [Ruby Guides](https://www.rubyguides.com/ruby-post-index/) | <img src="../imagem/eua.png" width="40px"> |
 | [Leticia Portella](https://leportella.com/pt-br) | <img src="../imagem/br.png" width="40px"> |
+| [Aprenda Golang](https://aprendagolang.com.br/) | <img src="../imagem/br.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
@@ -419,8 +438,11 @@
 | ---------- | :------: | ---------- | :------: |
 | [Frontend Mentor](https://www.frontendmentor.io) | <img src="../imagem/eua.png" width="40px"> | [Grid Garden](https://cssgridgarden.com/#pt-br) | <img src="../imagem/br.png" width="40px"> 
 | [CodeWars](https://www.codewars.com/) | <img src="../imagem/eua.png" width="40px"> | [Flexbox Froggy](https://flexboxfroggy.com/#pt-br) | <img src="../imagem/br.png" width="40px"> |
-| [LeetCode](https://leetcode.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [LeetCode](https://leetcode.com/) | <img src="../imagem/eua.png" width="40px"> | [Devgym](https://www.devgym.com.br) | <img src="../imagem/br.png" width="40px"> |
 | [Exercism](https://exercism.io/) | <img src="../imagem/eua.png" width="40px"> |
+| [iCodeThis](https://icodethis.com) | <img src="../imagem/eua.png" width="40px"> |
+| [HackerRank](https://www.hackerrank.com/) | <img src="../imagem/eua.png" width="40px"> |
+| [TryHackMe](https://tryhackme.com/) | <img src="../imagem/eua.png" width="40px"> |
 
 <div align="right">
     <b><a href="#-tabelas-de-conteúdos">↥ Voltar ao topo</a></b>
